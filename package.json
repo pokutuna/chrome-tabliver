@@ -1,0 +1,17 @@
+{
+  "name": "chrome-GitHub-compaito",
+  "author": "pokutuna <popopopopokutuna@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "es6-promise": "^2.1.1",
+    "gulp": "^3.8.11",
+    "gulp-jade": "^1.0.0",
+    "gulp-json-editor": "^2.2.1",
+    "gulp-sass": "^2.0.1",
+    "gulp-typescript": "^2.7.3",
+    "gulp-zip": "^3.0.2",
+    "typescript": "^1.5.0-beta"
+  },
+  "dependencies": {}
+}

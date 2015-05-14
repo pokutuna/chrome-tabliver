@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+
+    "name": "tabliver",
+    "version": "generate by 'manifesft' gulp task",
+    "description": "",
+
+    "background": {
+        "scripts": ["js/background.js"],
+        "persistent": false
+    },
+    "options_page": "html/options.html",
+    "permissions": [
+        "http://*/*",
+        "https://*/*"
+    ]
+}
